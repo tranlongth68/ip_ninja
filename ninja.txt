@@ -1,1 +1,2 @@
-NSO-TL:0.tcp.ap.ngrok.io:12034:0:0
+
+NsoPlus1:127.0.0.1:14444:0:0,NsoPlus2:sv2.nsoplus.com:14444:0:0,NsoPlus3:sv3.nsoplus.com:14444:1:0,NsoPlus1:sv1.nsoplus.com:14444:0:0,NsoPlus2:sv2.nsoplus.com:14444:0:0,NsoPlus3:sv3.nsoplus.com:14444:0:0,NsoPlus2:sv2.nsoplus.com:14444:1:0,NsoPlus2:sv2.nsoplus.com:14444:0:0,NsoPlus3:sv3.nsoplus.com:14444:0:0,NsoPlus1:sv1.nsoplus.com:14444:0:1,NsoPlus2:sv2.nsoplus.com:14444:0:1
